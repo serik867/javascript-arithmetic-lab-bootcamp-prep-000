@@ -1,4 +1,5 @@
-var a = 5, b = 10
+var int a = 5;
+var int b = 10
 
 
 function(a, b){
