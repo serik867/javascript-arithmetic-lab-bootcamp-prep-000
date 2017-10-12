@@ -1,4 +1,4 @@
-var a = 5, b = 10
+var int a = 5, b = 10
 
 
 
